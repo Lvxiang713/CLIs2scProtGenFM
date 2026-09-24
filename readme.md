@@ -1,12 +1,13 @@
-# EHR2scProtGen
+# CLI2scProtGen
 
-A PyTorch-based pipeline for generating single-cell protein expression profiles conditioned on electronic health record (EHR) embeddings, combining a CLIP‐style contrastive learning with a Gaussian diffusion model.
+A PyTorch-based pipeline for generating single-cell protein expression profiles conditioned on clinical laboratory indicators(
+CLIs) embeddings, combining a CLIP‐style contrastive learning with a Gaussian diffusion model.
 
 ---
+[Figure1_FM.pdf](https://github.com/user-attachments/files/32596792/Figure1_FM.pdf)
 
 
 
-![Figure1拼接](https://github.com/user-attachments/assets/41323a3c-bd73-4e11-a6de-534146d6a064)
 
 
 ## Table of Contents
