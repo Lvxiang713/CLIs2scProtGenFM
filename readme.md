@@ -4,11 +4,7 @@ A PyTorch-based pipeline for generating single-cell protein expression profiles 
 CLIs) embeddings, combining a CLIP‐style contrastive learning with a Gaussian diffusion model.
 
 ---
-[Figure1_FM.pdf](https://github.com/user-attachments/files/32596792/Figure1_FM.pdf)
-
-
-
-
+<img width="1531" height="1810" alt="image" src="https://github.com/user-attachments/assets/daab7914-486f-4733-aca9-9bafa5a3a292" />
 
 ## Table of Contents
 
